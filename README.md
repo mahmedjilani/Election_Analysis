@@ -13,7 +13,8 @@ The purpose of this project is to conduct an election audit of different countie
 The data is given in the form of the flat file (CSV File) which consists of Ballot ID, County & Candidate Name.
 
 ## Election Audit Results
-<!-- Election Results
+~~~
+Election Results
 -------------------------
 Total Votes: 369,711
 -------------------------
@@ -33,4 +34,5 @@ Raymon Anthony Doane: 3.1% (11,606)
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
-------------------------- -->
+-------------------------
+~~~
