@@ -38,6 +38,7 @@ Winning Percentage: 73.8%
 ~~~
 
 **Summary:**
+
 1. The Denver countrt the most voetes 82.8%
 2. Diana DeGette won the election and secured 78.3% votes.
 
