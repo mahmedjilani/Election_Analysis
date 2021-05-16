@@ -36,3 +36,12 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 ~~~
+
+Summary:
+1. The Denver countrt the most voetes 82.8%
+2. Diana DeGette won the election and secured 78.3% votes.
+
+## Election Audit Summary
+The code can be modified to find the most number of the votes for different filters other than the candidates and county. If the data included other characterstics, such as demographics and geography, the scripts can be modified to include these characterstics and the analysis can be done likewise.
+
+The code can also be modified to determine the patterns among the characterstics. Moroever, we can also test the percentage of voters by county against the each candidate. This would enable us to see which candidate was the most popular with the county or the geographical area.
