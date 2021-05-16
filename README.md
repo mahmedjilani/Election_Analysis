@@ -1,5 +1,5 @@
 # Election Audit with Python
-----
+---
 ## Overview of Election Audit
 The purpose of this project is to conduct an election audit of different counties. The project comprises of the following tasks. 
 
@@ -37,7 +37,7 @@ Winning Percentage: 73.8%
 -------------------------
 ~~~
 
-Summary:
+**Summary:**
 1. The Denver countrt the most voetes 82.8%
 2. Diana DeGette won the election and secured 78.3% votes.
 
